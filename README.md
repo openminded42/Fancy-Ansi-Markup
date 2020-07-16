@@ -8,27 +8,41 @@ Fancy Ansi Markup is a wrapper on top of the AnsiMarkup package that has some ex
 
 # Contact
 ## Responsible Developers
-Markus Benter
+### Markus Benter
+
 Jobware GmbH
+
 m.benter@jobware.de
+
 https://the-digital-native.de
 
-Raphael Tiersch
+
+### Raphael Tiersch
+
 Jobware GmbH
+
 r.tiersch@jobware.de
+
 https://jobware.de
 
 ## Head of Software Development
-Robert Scheidweiler
+### Robert Scheidweiler
+
 Jobware GmbH
+
 r.scheidweiler@jobware.de
+
 https://jobware.de
 
 ## Technical Chief Executive Officer
-Matthias Reineke
+### Matthias Reineke
+
 Jobware GmbH
+
 m.reineke@jobware.de
+
 https://jobware.de
+
 
 # How to install
 You need to install ansimakup >= 1.4.0 with pip3, see https://pypi.org/project/ansimarkup/
@@ -37,10 +51,10 @@ Copy fancy_ansi_markup into your project or clone this repository as subreposito
 
 # Acknowledgements
 
-This software has been developed within working hours of my job of Jobware GmbH, Germany (https://jobware.de). If you like this project or other stuff of Jobware, feel free to apply for a job as software developer or similar by sending your application documents 
+This software has been developed within working hours of my job at Jobware GmbH, Technologiepark 15, 33100 Paderborn, Germany (https://jobware.de). If you like this project or other stuff of Jobware, feel free to apply for a job as software developer or something similar by sending your application documents to info@jobware.de.
 
 # License
-Copyright (c) 2020 Jobware GmbH
+**Copyright (c) 2020 Markus Benter (Jobware GmbH)**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
