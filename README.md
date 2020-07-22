@@ -51,7 +51,7 @@ Copy fancy_ansi_markup into your project or clone this repository as subreposito
 
 # Acknowledgements
 
-This software has been developed within working hours of my job at Jobware GmbH, Technologiepark 15, 33100 Paderborn, Germany (https://jobware.de). If you like this project or other stuff of Jobware, feel free to apply for a job as software developer or something similar by sending your application documents to info@jobware.de.
+This software has been developed within working hours of my job at Jobware GmbH, Technologiepark 15, 33100 Paderborn, Germany (https://jobware.de). If you like this project or other stuff we do at Jobware, feel free to apply for a job as software developer or something similar by sending your application documents to info@jobware.de.
 
 # License
 **Copyright (c) 2020 Markus Benter (Jobware GmbH)**
